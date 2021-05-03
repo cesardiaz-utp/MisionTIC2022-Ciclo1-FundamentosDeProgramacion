@@ -28,7 +28,6 @@ print("Comentarios") # Tambien puedo comentar al final de una expresión
 
 
 
-
 #-------------------------------------------------------------------------------------------------
 # Tipos de datos
 #-------------------------------------------------------------------------------------------------
@@ -174,10 +173,10 @@ variable_entera_1 = int(1)   # 1
 variable_entera_2 = int(2.8) # 2
 variable_entera_3 = int("3") # 3
 
-variable_flotante_1 = float(1)     # 1
-variable_flotante_2 = float(2.8)   # 2
-variable_flotante_3 = float("3")   # 3
-variable_flotante_4 = float("4.2") # 4
+variable_flotante_1 = float(1)     # 1.0
+variable_flotante_2 = float(2.8)   # 2.8
+variable_flotante_3 = float("3")   # 3.0
+variable_flotante_4 = float("4.2") # 4.2
 
 variable_cadena_1 = str("s1") # "s1"
 variable_cadena_1 = str(2)    # "2"
@@ -204,7 +203,7 @@ sustraccion_3 = sustraccion_1 - sustraccion_2 # 25 - 25.1 = -0.1
 sustraccion_3 = sustraccion_3 - 1             # -0.1 - 1 = -1.1
 # print("Operador sustracción:", sustraccion_3)
 
-# '*' --> Multiplicación
+# '*' --> Multiplicación 
 multiplicacion_1 = 5 * 7                  # 5 * 7 = 35
 multiplicacion_2 = multiplicacion_1 * 2.0 # 35 * 2.0 = 70.0
 multiplicacion_3 = multiplicacion_2 * 0.2 # 70.0 * 0.2 = 14.0 
@@ -221,8 +220,8 @@ division_3 = division_3 / 0.5 # 62.5 / 0.5 = 125.0
 # '//' --> División entera (Parte entera de la división)
 division_entera_1 = 100 // 2                 # 100 // 2 = 50
 division_entera_2 = division_entera_1 // 4   # 50 // 4 = 12
-division_entera_3 = division_entera_2 // 0.2 # 12 // 0.2 = 59 # Ojo con el ajuste!!
-division_entera_3 = division_entera_3 // 0.5 # 59.0 // 0.5 = 118.0
+division_entera_3 = division_entera_2 // 0.2 # 12 // 0.2 = 59.0 # Ojo con el ajuste!!
+division_entera_3 = division_entera_3 // 0.5 # 59 // 0.5 = 118.0
 # print("Operador división entera:", division_entera_3)
 
 # '%'  --> Módulo (Resto de la división)
@@ -231,10 +230,10 @@ modulo_2 = 25 % 7        # 4 => 25 // 7 = 3 y resta 4
 modulo_3 = 73 % modulo_2 # 1 => 73 // 4 = 18 y resta 1
 # print("Operador módulo:", modulo_3)
 
-# '**' --> Exponenciación
+# '**' --> Exponenciación ^
 exponenciacion_1 = 11 ** 2                 # 121 => 11 * 11
 exponenciacion_2 = exponenciacion_1 ** 0.5 # 11.0 => Raiz Cuadrada
-exponenciacion_3 = exponenciacion_2 ** 3   # 1331.0 => 121
+exponenciacion_3 = exponenciacion_2 ** 3   # 1331.0 => 11 * 11 * 11
 # print("Operador exponenciación:", exponenciacion_3)
 
 # Operadores de asignación aritmética
@@ -258,26 +257,25 @@ asignacion_multiplicacion *= 0.2 # 110.0
 
 # '/=' --> Asignación de división a /= b <==> a = a / b
 asignacion_division = 110
-asignacion_division /= 5   # 550
+asignacion_division /= 5   # 22.0
 asignacion_division /= 0.2 # 110.0
 # print("Operador asignación de división:", asignacion_division)
 
 # '//=' --> Asignación de división entera a //= b <==> a = a // b
 asignacion_division_entera = 110
-asignacion_division_entera //= 5   # 550
-asignacion_division_entera //= 0.2 # 110.0
+asignacion_division_entera //= 5   # 22
+asignacion_division_entera //= 0.2 # 109.0
 # print("Operador asignación de división entera:", asignacion_division_entera)
 
 # '%=' --> Asignación de módulo  a %= b <==> a = a % b
-asignacion_modulo = 110
-asignacion_modulo %= 5   # 550
-asignacion_modulo %= 0.2 # 110.0
+asignacion_modulo = 111
+asignacion_modulo %= 5   # 1
+asignacion_modulo %= 0.2 # 0.1999999...
 # print("Operador asignación de módulo:", asignacion_modulo)
-
 # '**=' --> Asignación de exponenciación  a **= b <==> a = a ** b
 asignacion_exponenciacion = 1
-asignacion_exponenciacion **= 5   # 550
-asignacion_exponenciacion **= 0.2 # 110.0
+asignacion_exponenciacion **= 5   # 1
+asignacion_exponenciacion **= 0.2 # 1.0
 # print("Operador asignación de exponenciación:", asignacion_exponenciacion)
 
 #-------------------------------------------------------------------------------------------------
