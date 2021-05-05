@@ -120,4 +120,3 @@ Para aprovechar la temporada de rebajas he salido de compras. He pagado 34€ po
 
 **¿Cómo debo responder?**  
 
-***

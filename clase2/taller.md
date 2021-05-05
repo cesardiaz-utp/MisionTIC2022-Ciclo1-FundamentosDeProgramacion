@@ -33,6 +33,3 @@ Un acto de graduación es la ceremonia oficial que clausura el curso escolar y s
 
 Para organizar una fiesta de graduación del instituto se compran 9 cajas de refrescos, donde cada caja contiene 24 latas de refrescos. Invitamos a 56 personas y queremos que todas y cada una de ellas consuman la misma cantidad de refrescos ¿Cuántas latas de refresco sobrarán?
 
-***
-
-## Reto 5: 

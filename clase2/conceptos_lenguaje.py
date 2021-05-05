@@ -20,7 +20,7 @@ print("10 + 25 ="); print(10 + 25)
 print("Comentarios") # Tambien puedo comentar al final de una expresión
 
 # Este es un comentario multilínea, osea que para mejorar la legibilidad 
-# del texto, se puede escribir varias líneas 
+# del texto, se puede escribir varias líneas
 # Siempre es muy importante dejar las ideas claras cuando se programa
 
 # Tambien se pueden comentar líneas de código
@@ -36,8 +36,8 @@ print("Comentarios") # Tambien puedo comentar al final de una expresión
 "Este es un texto"  # Preferido
 'Este tambien es un texto válido en python'
 
-# print("Cadena:", 'Hola', type('Hola'))
-# print("Cadena:", "Mundo", type("Mundo"))
+print("Cadena:", 'Hola', type('Hola'))
+print("Cadena:", "Mundo", type("Mundo"))
 
 
 
@@ -61,14 +61,22 @@ print("Comentarios") # Tambien puedo comentar al final de una expresión
 35e3 # 35000.0
 12E4 # 120000.0
 -87.7e100 # -87700000000000000...
-1e-5 # 0.00001
+15e-5 # 0.00015
+
+1e6 # 1000000.0
+1e50 #1000000000000000000000000000000000000000000000000000000000.0
+12.514e10 # 125140000000.0 = 12514e7
+# 15e-3 = 1 / 10 /10 /10 = 0.015
+# 0.1e-20 = 0.0000000000000000000000000000000001
+
 
 # print("Flotante:", 10.0, type(10.0))
 
 # Complejos
-3 + 5j # 3 Enteros, 5 imaginarios -> (3, 5i)
-4j # 0 enteros, 5 imaginarios -> (0, 4i)
--7j # 0 enteros, -7 imaginarios -> (0, -7i)
+3 + 5j # 3 real, 5 imaginarios -> (3, 5i)
+4j # 0 real, 5 imaginarios -> (0, 4i)
+-7j # 0 real, -7 imaginarios -> (0, -7i)
+1j #
 
 # print("Complejos:", 7j, type(7j))
 
@@ -153,6 +161,9 @@ variable_2 = "Cesar"
 variable_2 = variable_1
 # print(variable_2, type(variable_2)) # int
 
+a = 0
+A = 0
+
 variable_3 = 325.0
 Variable_3 = "Es una variable diferente"
 # print(variable_3, Variable_3) # 325.0 Es una variable diferente
@@ -161,7 +172,7 @@ Variable_3 = "Es una variable diferente"
 mivariable = "John"
 mi_variable = "John" # preferido
 _mi_variable = "John"
-miVariable = "John"
+m1iVariable = "John"
 MIVARIABLE = "John" # Solo para constantes, pero es sugerido MI_VARIABLE
 mivariable2 = "John"
 
@@ -173,7 +184,7 @@ variable_entera_1 = int(1)   # 1
 variable_entera_2 = int(2.8) # 2
 variable_entera_3 = int("3") # 3
 
-variable_flotante_1 = float(1)     # 1.0
+variable_flotante_1 = float(1000000000000000000)     # 1.0E15
 variable_flotante_2 = float(2.8)   # 2.8
 variable_flotante_3 = float("3")   # 3.0
 variable_flotante_4 = float("4.2") # 4.2
@@ -289,12 +300,12 @@ asignacion_exponenciacion **= 0.2 # 1.0
 # 6. Asignación =
 
 13 - 4 * ( 5 - 2 ) + 3 * ( 2 + 8 )
-13 - 4 *     3     + 3 *     10
+13 - 4 *      3     + 3 *     10
 13 -   12          +      30
 31
 
 ejercicio_1 = 16 + 3 * (6 - 4) - 3 * 5
-#print("Ejercicio 1", ejercicio_1)
+print("Ejercicio 1", ejercicio_1)
 
 ejercicio_2 = 23 - 8 + 6 * 2 - 3 * 4 
 #print("Ejercicio 2", ejercicio_2)
