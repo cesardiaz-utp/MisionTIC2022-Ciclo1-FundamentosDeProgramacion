@@ -8,7 +8,7 @@
 * Tarea: Leer material de Algoritmos páginas 1 a 20
 
 ### Clase 2
-* Revisión lectura Algorítmos (páginas 1 a 20)
+* Revisión lectura Algorítmos páginas 1 a 20
 * [Conceptos del lenguaje Python](clase2/conceptos_lenguaje.py)
   * Impresión en pantalla
   * Comentarios
@@ -29,7 +29,7 @@
 * Tarea: Leer material de Algoritmos páginas 21 a 45
 
 ### Clase 4
-* Revisión lectura Algorítmos (páginas 21 a 45)
+* Revisión lectura Algorítmos páginas 21 a 45
 * Conceptos del lenguaje Python
   * [Funciones del sistema](clase4/funciones_sistema.py)
   * Llamar funciones desde bibliotecas
@@ -39,9 +39,8 @@
 
 
 [//]: # (## Unidad 2 - Condicionales y Diccionarios)
-
 [//]: # (### Clase 5)
-[//]: # (* Revisión lectura Algorítmos (páginas 46 a 73)
+[//]: # (* Revisión lectura Algorítmos páginas 46 a 73)
 [//]: # (* Conceptos del lenguaje Python)
 [//]: # (  * Expresiones booleanas)
 [//]: # (  * Estructura condicional: if - elif - else)
