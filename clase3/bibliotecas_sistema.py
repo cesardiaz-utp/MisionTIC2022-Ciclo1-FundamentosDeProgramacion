@@ -7,8 +7,10 @@ import math
 print(math.sin(2.0))
 
 # Opcion 2
-from math import sin
-print(sin(2.0))
+import turtle as t
+t.forward(200)
+t.right(90)
+
 
 # Opcion 3
 from random import random, randrange, choice

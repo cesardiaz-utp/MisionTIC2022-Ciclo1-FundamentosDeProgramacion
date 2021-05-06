@@ -25,6 +25,7 @@
 * Conceptos del lenguaje Python
   * [Recibir datos del usuario](clase3/recibir_datos.py)
   * [Definición de funciones nuevas](clase3/funciones_propias.py)
+  * [Llamar funciones desde bibliotecas](clase3/bibliotecas_sistema.py)
   * Crear bibliotecas nuevas
 * Tarea: Leer material de Algoritmos páginas 21 a 45
 
@@ -32,8 +33,6 @@
 * Revisión lectura Algorítmos páginas 21 a 45
 * Conceptos del lenguaje Python
   * [Funciones del sistema](clase4/funciones_sistema.py)
-  * Llamar funciones desde bibliotecas
- [Ejercicios para resolver en clase](clase4/ejercicios.md)
 * [Taller para el desarrollo individual](clase4/taller.md)
 * Tarea: Leer material de Algoritmos páginas 46 a 73
 
@@ -44,3 +43,27 @@
 [//]: # (* Conceptos del lenguaje Python)
 [//]: # (  * Expresiones booleanas)
 [//]: # (  * Estructura condicional: if - elif - else)
+[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
+[//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
+
+[//]: # (### Clase 6)
+[//]: # (* Conceptos del lenguaje Python)
+[//]: # (  * Gestión de cadenas)
+[//]: # (  * Gestión de diccionarios)
+
+[//]: # (### Clase 7)
+[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
+[//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
+
+[//]: # (## Unidad 3 - Estructuras de datos y ciclos)
+[//]: # (### Clase 8)
+[//]: # (* Conceptos del lenguaje Python)
+[//]: # (  * Estructuras iterativas: while, for, do while)
+
+[//]: # (### Clase 9)
+[//]: # (* Conceptos del lenguaje Python)
+[//]: # (  * Expresiones booleanas)
+
+[//]: # (### Clase 10)
+[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
+[//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
