@@ -1,10 +1,10 @@
 # Taller Clase 4
 
 ## Ejercicio 1
-Escribir una función a la que se le pase una cadena <nombre> y muestre por pantalla el saludo ¡hola <nombre>!.
+Escribir una función a la que se le pase una cadena `<nombre>` y muestre por pantalla el saludo `¡hola <nombre>!`.
 
 ## Ejercicio 2
-Escribir una función que reciba un número entero positivo y devuelva su factorial.
+Escribir una función que reciba un número entero positivo y devuelva su **factorial**.
 
 ## Ejercicio 3
 Escribir una función que calcule el total de una factura tras aplicarle el IVA. La función debe recibir la cantidad sin IVA y el porcentaje de IVA a aplicar, y devolver el total de la factura. Si se invoca la función sin pasarle el porcentaje de IVA, deberá aplicar un 19%.
@@ -30,7 +30,7 @@ Una panadería vende barras de pan a 3.49€ cada una. El pan que no es el día 
 Imagina que acabas de abrir una nueva cuenta de ahorros que te ofrece el 4% de interés al año. Estos ahorros debido a intereses, que no se cobran hasta finales de año, se te añaden al balance final de tu cuenta de ahorros. Escribir un programa que comience leyendo la cantidad de dinero depositada en la cuenta de ahorros, introducida por el usuario. Después el programa debe calcular y mostrar por pantalla la cantidad de ahorros tras el primer, segundo y tercer años. Redondear cada cantidad a dos decimales.
 
 ## Ejercicio 10
-Crea un programa que dado un número entero que designa un periodo de tiempo expresado en segundos, imprima el equivalente en días, horas, minutos y segundos.
+Crea un programa que dado un número entero que designa un periodo de tiempo expresado en segundos, imprima el equivalente en días, horas, minutos y segundos.  
 Por ejemplo: 
 * 300000 segundos serán 3 días, 11 horas, 20 minutos y 0 segundos.
 * 7400 segundos serán 0 días, 2 horas, 3 minutos y 20 segundos.
