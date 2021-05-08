@@ -33,15 +33,11 @@
 * Revisión lectura Algorítmos páginas 21 a 45
 * Conceptos del lenguaje Python
   * [Funciones del sistema](clase4/funciones_sistema.py)
+  * [Agregar variables a cadenas](clase4/formato_cadenas.py)
 * [Taller para el desarrollo individual](clase4/taller.md)
 * Tarea: Leer material de Algoritmos páginas 46 a 73
 
 
-[//]: # (## Unidad 2 - Condicionales y Diccionarios)
-[//]: # (### Clase 5)
-[//]: # (* Revisión lectura Algorítmos páginas 46 a 73)
-[//]: # (* Conceptos del lenguaje Python)
-[//]: # (  * Expresiones booleanas)
 [//]: # (  * Estructura condicional: if - elif - else)
 [//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
 [//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
