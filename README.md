@@ -37,17 +37,29 @@
 * [Taller para el desarrollo individual](clase4/taller.md)
 * Tarea: Leer material de Algoritmos páginas 46 a 73
 
-
-[//]: # (  * Estructura condicional: if - elif - else)
-[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
-[//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
+## Unidad 2 - Condicionales y Diccionarios
+### Clase 5
+* Revisión lectura Algorítmos páginas 46 a 73
+* Conceptos del lenguaje Python
+  * [Proposiciones simples y complejas](clase5/proposiciones.md)
+  * [Conocer el uso de Booleanos y sus operadores](clase5/operaciones_logicas.md)
+  * [Realizar expresiones relacionales lógicas](clase5/expresiones_logicas.md)
+* Tarea: Leer material de Tipificación de Condicionales
+* Tarea: Leer material de Algoritmos páginas 74 a 143 (se revisará dentro de dos (2) clases)
 
 [//]: # (### Clase 6)
+[//]: # (* Revisión lectura Tipificación de Condicionales)
 [//]: # (* Conceptos del lenguaje Python)
-[//]: # (  * Gestión de cadenas)
-[//]: # (  * Gestión de diccionarios)
+[//]: # (  * Creación de instrucción con condicionales)
+[//]: # (  * Diccionarios)
+[//]: # (  * Pasando información a través de diccionarios )
+[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
 
 [//]: # (### Clase 7)
+[//]: # (* Revisión lectura Algorítmos páginas 74 a 143)
+[//]: # (* Conceptos del lenguaje Python)
+[//]: # (  * Cadenas de caracteres)
+[//]: # (  * Manejo de excepciones)
 [//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
 [//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
 
