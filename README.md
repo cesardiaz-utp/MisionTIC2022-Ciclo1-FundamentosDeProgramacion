@@ -47,13 +47,13 @@
 * Tarea: Leer material de Tipificación de Condicionales
 * Tarea: Leer material de Algoritmos páginas 74 a 143 (se revisará dentro de dos (2) clases)
 
-[//]: # (### Clase 6)
-[//]: # (* Revisión lectura Tipificación de Condicionales)
-[//]: # (* Conceptos del lenguaje Python)
-[//]: # (  * Creación de instrucción con condicionales)
-[//]: # (  * Diccionarios)
-[//]: # (  * Pasando información a través de diccionarios )
-[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
+### Clase 6
+* Revisión lectura Tipificación de Condicionales
+* [Conceptos del lenguaje Python](clase6/ejercicios.md)
+  * Creación de instrucción con condicionales
+  * Diccionarios
+  * Pasando información a través de diccionarios
+* Tarea: Leer material de Algoritmos páginas 74 a 143
 
 [//]: # (### Clase 7)
 [//]: # (* Revisión lectura Algorítmos páginas 74 a 143)

@@ -6,7 +6,7 @@
 | T |  F  |   F    |   T    |
 | F |  T  |   F    |   T    |
 
-## Tabla de verdad de la **negación**
+## Tabla de verdad de los conectores **conjunción** y **disyunción**
 | p |  q  | p ∧ q | p v q |
 |---|-----|-------|-------|
 | T |  T  |   T   |   T   |
@@ -56,4 +56,6 @@ q ∨ False:         _____
 ¬(q ∧ p):          _____ 
 
 (p ∧ q) ∨ (p ∧ r): _____ 
+
+(p ∧ q) v (p ∧ r) v (q ∧ p): _____ 
 ```
