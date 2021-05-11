@@ -6,7 +6,7 @@
 1. Diseñe un algoritmo que reciba una nota definitiva entre 0.0 y 5.0. El algoritmo debe imprimir el valor ingresado, y un mensaje que indique si el estudiante “Ganó el curso” o “Perdió el curso”. Se gana el curso solo si la nota definitiva es mayor o igual a 3.0.
 1. Diseñe un algoritmo que permita solicitar tanto el nombre como la edad de una persona y posteriormente indicar si el la es “Mayor de edad” o “Menor de edad” según la información ingresada. Una persona se considera mayor de edad si tiene 18 años o más.
 1. Diseñe un algoritmo que determina si un número es par o impar. Recuerde que un número es par si el resto de una división entera con el número 2 es cero.
-1. Diseñe un algoritmo que determine si un número real (x)se encuentra dentro del rango abierto-cerrado (3.5, 7.8].
+1. Diseñe un algoritmo que determine si un número real (x) se encuentra dentro del rango abierto-cerrado (3.5, 7.8].
 1. Diseñe un algoritmo que determine si un número real (x) se encuentra dentro de uno de los siguientes rangos: (3.5, 7.8], [9.3, 4.5) y [23.4, 45.3].
 1. Diseñe un algoritmo que permita imprimir un mensaje según un carácter dado por el usuario, independiente que sea ingresado en mayúscula o minúscula, según la Tabla:
 
