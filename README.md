@@ -49,10 +49,11 @@
 
 ### Clase 6
 * Revisión lectura Tipificación de Condicionales
-* [Conceptos del lenguaje Python](clase6/ejercicios.md)
-  * Creación de instrucción con condicionales
-  * Diccionarios
+* Conceptos del lenguaje Python
+  * [Creación de instrucción con condicionales](clase6/operadores_condicionales.py)
+  * [Diccionarios](clase6/diccionarios.py)
   * Pasando información a través de diccionarios
+* [Ejercicios para resolver en clase](clase6/ejercicios.md)
 * Tarea: Leer material de Algoritmos páginas 74 a 143
 
 [//]: # (### Clase 7)
@@ -60,8 +61,11 @@
 [//]: # (* Conceptos del lenguaje Python)
 [//]: # (  * Cadenas de caracteres)
 [//]: # (  * Manejo de excepciones)
+
+
 [//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
 [//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
+[//]: # (* Tarea: Leer material de Algoritmos páginas 144 a 172)
 
 [//]: # (## Unidad 3 - Estructuras de datos y ciclos)
 [//]: # (### Clase 8)
