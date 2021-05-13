@@ -56,16 +56,12 @@
 * [Ejercicios para resolver en clase](clase6/ejercicios.md)
 * Tarea: Leer material de Algoritmos páginas 74 a 143
 
-[//]: # (### Clase 7)
-[//]: # (* Revisión lectura Algorítmos páginas 74 a 143)
-[//]: # (* Conceptos del lenguaje Python)
-[//]: # (  * Cadenas de caracteres)
-[//]: # (  * Manejo de excepciones)
-
-
-[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
-[//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
-[//]: # (* Tarea: Leer material de Algoritmos páginas 144 a 172)
+### Clase 7
+* Revisión lectura Algorítmos páginas 74 a 143 (Diagramas de Flujo y Pseudocodigo)
+* Conceptos del lenguaje Python
+  * [Cadenas de caracteres](clase7/strings.py)
+* [Taller para el desarrollo individual](clase7/taller.md)
+* Tarea: Leer material de Algoritmos páginas 144 a 172
 
 [//]: # (## Unidad 3 - Estructuras de datos y ciclos)
 [//]: # (### Clase 8)

@@ -6,18 +6,23 @@ False
 # Igual
 print(5 == 5.0) # True
 print("hola" == "Hola") # False
+print("Hola " == "Hola") # False
 
 # Diferente
 print(5 != 5.0) # False
 print("hola" != "Hola") # True
+print("Hola " != "Hola") # True
+
 
 # Menor que
 print(5.01 < 5.10) # True
 print("hola" < "Hola") # False
+print("Hola " < "Hola ") # False
 
 # Menor o igual a que
 print(5 <= 5.00) # True
 print("hola" <= "Hola") # False
+print("HoLa " <= "Hola") # False
 
 # Mayor que
 print(5.01 > 5.10) # False
@@ -31,6 +36,9 @@ print("hola" >= "Hola") # True
 print(5 is 5.0) # False
 var_1 = 5.0
 print(var_1 is (1 + 2 + 2.0)) # True
+
+print(5 is not 5.0) # True
+
 
 # Operadores lógicos (Conectores)
 # and # Conjuncion, adición
