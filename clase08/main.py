@@ -1,11 +1,11 @@
 from recursividad import *
 
-cuenta_regresiva(5)
+cuenta_regresiva(10)
 
-print(factorial(9))
+print(factorial(100))
 
 print(fibonacci(5))
 
-print(mcd(27, 81))
+print(mcd(27, 78))
 
-hanoi(10, "A", "B", "C")
+hanoi(5, "C", "B", "A")

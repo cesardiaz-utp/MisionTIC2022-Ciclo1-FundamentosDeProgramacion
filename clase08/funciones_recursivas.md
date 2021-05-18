@@ -112,13 +112,13 @@ Las Torres de Hanói es un rompecabezas o juego matemático inventado en 1883 po
 
 ### Solución
 ```python
-def hannoi(discos, torre_a, torre_b, torre_c):
+def hanoi(discos, torre_a, torre_b, torre_c):
     if discos == 1:
         print(f"Mover disco {discos} de la torre {torre_a} a la torre {torre_c}")
     else:
-        hannoi(discos - 1, torre_a, torre_c, torre_b)
+        hanoi(discos - 1, torre_a, torre_c, torre_b)
 
         print(f"Mover disco {discos} de la torre {torre_a} a la torre {torre_c}")
 
-        hannoi(discos - 1, torre_b, torre_a, torre_c)
+        hanoi(discos - 1, torre_b, torre_a, torre_c)
 ```

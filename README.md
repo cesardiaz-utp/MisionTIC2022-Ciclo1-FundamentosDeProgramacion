@@ -67,7 +67,7 @@
 ### Clase 8
 * Revisión lectura Algorítmos páginas 144 a 172
 * Conceptos del lenguaje Python
-  * [Funciones recursivas](clase08/funciones_recursivas.py)
+  * [Funciones recursivas](clase08/funciones_recursivas.md)
   * Estructuras iterativas: while, for, break y continue
 * [Ejercicios para resolver en clase](clase08/ejercicios.md)
 
