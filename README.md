@@ -69,11 +69,13 @@
 * Conceptos del lenguaje Python
   * [Funciones recursivas](clase08/funciones_recursivas.md)
   * Estructuras iterativas: while, for, break y continue
-* [Ejercicios para resolver en clase](clase08/ejercicios.md)
 
-[//]: # (### Clase 9)
-[//]: # (* Conceptos del lenguaje Python)
-[//]: # (  * Expresiones booleanas)
+### Clase 9
+* Conceptos del lenguaje Python
+  * [Listas](clase09/listas.py)
+  * [Tuplas](clase09/tuplas.py)
+  * [Conjuntos](clase09/conjuntos.py)
+* [Ejercicios para resolver en clase](clase09/ejercicios.md)
 
 [//]: # (### Clase 10)
 [//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
