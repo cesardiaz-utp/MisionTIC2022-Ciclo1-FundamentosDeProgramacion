@@ -41,8 +41,8 @@ print(c)  # {1, 4}
 
 proyecto1 = {'python', 'Zope2', 'ZODB3', 'pytz'}
 proyecto2 = {'python', 'Plone', 'diazo'}
-proyecto1.difference_update(proyecto2)
-print(proyecto1)    # proyecto1 = {'python', 'Zope2', 'ZODB3', 'pytz'}
+proyecto1.difference_update(proyecto2) # -= ==> p1 = p1 - p2
+print(proyecto1)    # proyecto1 = {'Zope2', 'ZODB3', 'pytz'}
 
 paquetes = {'python', 'zope', 'plone', 'django'}
 paquetes.discard('django') # {'python', 'zope', 'plone'}

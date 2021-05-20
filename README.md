@@ -77,6 +77,9 @@
   * [Conjuntos](clase09/conjuntos.py)
 * [Ejercicios para resolver en clase](clase09/ejercicios.md)
 
-[//]: # (### Clase 10)
-[//]: # (* [Ejercicios para resolver en clase] claseX/ejercicios.md)
-[//]: # (* [Taller para el desarrollo individual] claseX/taller.md)
+### Clase 10
+* CRUD de Tareas Pendientes
+  * [Vista](clase10/vista.py)
+  * [Lógica de negocio](clase10/logica.py)
+  * [Acceso a datos](clase10/datos.py)
+* [Taller para el desarrollo individual](clase09/ejercicios.md)
