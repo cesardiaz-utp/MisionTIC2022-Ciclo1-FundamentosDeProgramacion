@@ -52,7 +52,7 @@
 * Conceptos del lenguaje Python
   * [Creación de instrucción con condicionales](clase06/operadores_condicionales.py)
   * [Diccionarios](clase06/diccionarios.py)
-  * Pasando información a través de diccionarios
+  * Pasando información a través de diccionarios (iMaster)
 * [Ejercicios para resolver en clase](clase06/ejercicios.md)
 * Tarea: Leer material de Algoritmos páginas 74 a 143
 
@@ -68,7 +68,7 @@
 * Revisión lectura Algorítmos páginas 144 a 172
 * Conceptos del lenguaje Python
   * [Funciones recursivas](clase08/funciones_recursivas.md)
-  * Estructuras iterativas: while, for, break y continue
+  * Estructuras iterativas: while, for, break y continue (iMaster)
 
 ### Clase 9
 * Conceptos del lenguaje Python
@@ -83,3 +83,14 @@
   * [Lógica de negocio](clase10/logica.py)
   * [Acceso a datos](clase10/datos.py)
 * [Taller para el desarrollo individual](clase09/ejercicios.md)
+
+## Unidad 4 - Estructuras de datos y ciclos
+### Clase 11
+* Conceptos del lenguaje Python
+  * [Programación Funcional](clase11/funciones.py)
+  * List Comprehension (iMaster)
+### Clase 12
+* Conceptos del lenguaje Python
+  * [List Comprehension](clase12/list_comprehension.py)
+  * [Funciones map(), filter(), reduce(), zip(), enumerate()](clase12/funciones.py)
+* [Ejercicios para resolver en clase](clase12/ejercicios.md)
