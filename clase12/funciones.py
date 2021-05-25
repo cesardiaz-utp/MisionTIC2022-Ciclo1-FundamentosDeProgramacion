@@ -31,6 +31,9 @@ valor = reduce(lambda x, y: x + y, lista)      # 16
 
 valor = reduce(lambda x, y: x + y, lista, 10)  # 26
 
+lista = [2, 4, 7, 3, "ABC", [1, 2, "a"]]
+valor = reduce(lambda x, y: str(x) + str(y), lista, 10)  # "102473ABC[1, 2, 'a']"
+
 #
 # Función zip(*iterables)
 #
@@ -38,11 +41,11 @@ a = [1, 2]
 b = ["Uno", "Dos"]
 list(zip(a, b)) # [(1, 'Uno'), (2, 'Dos')]
 
-numeros = [1, 2]
-espanol = ["Uno", "Dos"]
+numeros = [1, 2, 3]
+espanol = ["Uno", "Dos", "Tres", "Cuatro"]
 ingles = ["One", "Two"]
 frances = ["Un", "Deux"]
-list(zip(numeros, espanol, ingles, frances)) # [(1, 'Uno', 'One', 'Un'), (2, 'Dos', 'Two', 'Deux')]
+print(list(zip(numeros, espanol, ingles, frances))) # [(1, 'Uno', 'One', 'Un'), (2, 'Dos', 'Two', 'Deux')]
 
 # Cancelar el zip()
 c = [(1, 'One'), (2, 'Two'), (3, 'Three')]
@@ -58,6 +61,9 @@ lenguajes = ["Java", "C", "C++", "Rust", "Elixir"]
 list(enumerate(lenguajes)) # [(0, 'Java'), (1, 'C'), (2, 'C++'), (3, 'Rust'), (4, 'Elixir')]
 
 list(enumerate(lenguajes, 1)) # [(1, 'Java'), (2, 'C'), (3, 'C++'), (4, 'Rust'), (5, 'Elixir')]
+
+print({ str(indice) : lenguaje for indice, lenguaje in enumerate(lenguajes)})
+
 
 #
 # Función all(iterables)

@@ -47,4 +47,10 @@ print(reduce_result)
 ```
 
 ## Funciones all(), any()
+### Ejercicio 7
 Se recibe una lista de números enteros separados por espacios: Si todos los enteros son positivos, se debe revisar si algún entero es un número palíndromo como se muestra a continuación https://en.wikipedia.org/wiki/Palindromic_number. Se imprime la palabra ‘True’ si se cumplen las condiciones o ‘False’ de lo contrario.
+Ejemplos:
+* Para `[10, 30, 50, 90, 100, 101]` imprime `True`
+* Para `[10, 20, 30, 400, 50, 100]` imprime `False`
+* Para `[1, 2, 3, 4, 5, 6, 7, 8, 9]` imprime `True`
+* Para `[151, 60, -5, 135, 18, 40]` imprime `False`
