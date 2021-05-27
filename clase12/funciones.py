@@ -8,6 +8,8 @@ lista = list(map(starts_with_A, fruit))         # [True, False, False, True, Fal
 
 lista = list(map(lambda s: s[0] == "A", fruit)) # [True, False, False, True, False]
 
+lista = list(map(lambda s: s[::-1].capitalize(), fruit)) # [Elppa', 'Ananab', 'Raep', 'Tocirpa', 'Egnaro']
+
 # Varias listas a la vez
 my_strings = ['a', 'b', 'c', 'd', 'e']
 my_numbers = [1, 2, 3, 4, 5]
@@ -87,7 +89,7 @@ cumplir con las siguientes reglas:
 * No tener repeticiones.
 * Contener exactamente 10 caracteres.
 """
-uids = ["B1CD102354", "B1CDEF2354"]
+uids = ["B1CD102354", "B1CDEF2354", "1a1A$fd*"]
 for uid in uids:
     cond = []
     # Debe contener por lo menos dos letras mayúsculas en el alfabeto inglés.

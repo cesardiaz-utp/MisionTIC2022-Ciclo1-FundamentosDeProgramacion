@@ -1,4 +1,5 @@
 # Lists Comprehension
+# [<dato> <recorrido for> <filtro if>]
 
 frutas = ["manzana", "banano", "cereza", "kiwi", "mango"]
 list = [x for x in frutas if "a" in x]
@@ -11,7 +12,11 @@ list = [x.upper() for x in frutas]
 
 list = [ x + y for x in [10,30,50] for y in [20,40,60]]
 
+list = [x for x in frutas if x != "banano"] 
+
 list = [x if x != "banano" else "naranja" for x in frutas] 
+
+list = [x if 'a' not in x else "naranja" for x in frutas] 
 
 # Otros ejemplos
 oracion = 'El cohete se devuelve desde marte'
@@ -31,6 +36,9 @@ vocales_usadas = {i for i in oracion if i in 'aeiou'}
 
 # Con diccionarios
 cuadrados = { str(i): i * i for i in range(10)}
+
+# Con tupla
+numeros = tuple(str(i) for i in range(10))
 
 pass
 

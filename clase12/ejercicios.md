@@ -3,10 +3,12 @@
 ## List Comprehension
 
 ### Ejercicio 1
-Necesitamos crear una lista de enteros que especifique la longitud de cada palabra en una frase en concreto, pero solo si la palabra no es "el". La frase es: `"el rápido zorro marrón salta sobre el perro perezoso"`
+Necesitamos crear una lista de enteros que contenga la longitud de cada palabra en una frase, pero solo si la palabra no es "el".  
+La frase es: `"el rápido zorro marrón salta sobre el perro perezoso"`
 
 ### Ejercicio 2
-Crea una nueva lista que a partir de otra lista de números que contenga solo los números positivos de la lista, como enteros. La lista es `numeros = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]`
+Crea una nueva lista que a partir de otra lista de números que contenga solo los números positivos de la lista, como enteros.  
+La lista es `numeros = [34.6, -203.4, 44.9, 68.3, -12.2, 44.6, 12.7]`
 
 ### Ejercicio 3
 Extraiga en un conjunto los dígitos que existen en una frase. La frase es `"Hello 12345 World 5602"`
@@ -17,7 +19,7 @@ Que valores generan las siguientes List Comprehensions
 * `[2**i for i in range(13)]`
 
 ### Ejercicio 5
-Cual sería la expresión List Comprehension pare generar la siguiente lista: `[0, 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]`
+Cual sería la expresión List Comprehension para generar la siguiente lista: `[0, 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]`
 
 ## Funciones map(), reduce(), filter()
 ### Ejercicio 6

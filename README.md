@@ -92,5 +92,12 @@
 ### Clase 12
 * Conceptos del lenguaje Python
   * [List Comprehension](clase12/list_comprehension.py)
+    * [Algoritmo Dijkstra](clase12/dijkstra.py)
   * [Funciones map(), filter(), reduce(), zip(), enumerate()](clase12/funciones.py)
 * [Ejercicios para resolver en clase](clase12/ejercicios.md)
+
+### Clase 13
+* Conceptos del lenguaje Python
+  * [Numpy](clase13/numpy_workshop.py)
+  * [Pandas](clase13/pandas_workshop.py)
+* [Ejercicios para resolver en clase](clase13/ejercicios.md)
