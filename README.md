@@ -106,14 +106,18 @@
 ### Clase 14
 * Conceptos del lenguaje Python
   * [Graficos con matplotlib](clase14/01-graficas_matplotlib.ipynb)
-  * [Graficas con Panda DataFrames](clase14/02-graficas_dataframes.ipynb)
+  * [Graficas con DataFrames](clase14/02-graficas_dataframes.ipynb)
   * [Manejo de fechas](clase14/03-manejo_fechas.ipynb)
-  * [Manipulaciones de DataFrames](clase14/04-otros.ipynb)
-* **Tarea**: Leer material **Manejo de Archivos** (iMaster)
+  * [Otras manipulaciones de DataFrames](clase14/04-otros.ipynb)
+* **Tarea**: Leer material **Manejo de Archivos**
 
 [//]: # (### Clase 15)
+[//]: # (* Conceptos del lenguaje Python)
+[//]: # (  * Manejo de archivos)
+[//]: # (  * Aplicación CRUD completa)
 
 [//]: # (### Clase 16)
+[//]: # (* [Ejercicios para resolver en clase]clase15/ejercicios.md)
 
 [//]: # (## Unidad 6 - Programación orientada a objetos en Python e interfaces gráficas)
 [//]: # (### Clase 17)
