@@ -5,7 +5,7 @@
 * Introducción a iMaster
 * Introducción a la programación
 * ¿Qué es Python?
-* Tarea: Leer material de Algoritmos páginas 1 a 20
+* **Tarea**: Leer material de Algoritmos páginas 1 a 20
 
 ### Clase 2
 * Revisión lectura Algorítmos páginas 1 a 20
@@ -27,7 +27,7 @@
   * [Definición de funciones nuevas](clase03/funciones_propias.py)
   * [Llamar funciones desde bibliotecas](clase03/bibliotecas_sistema.py)
   * Crear bibliotecas nuevas
-* Tarea: Leer material de Algoritmos páginas 21 a 45
+* **Tarea**: Leer material de Algoritmos páginas 21 a 45
 
 ### Clase 4
 * Revisión lectura Algorítmos páginas 21 a 45
@@ -35,7 +35,7 @@
   * [Funciones del sistema](clase04/funciones_sistema.py)
   * [Agregar variables a cadenas](clase04/formato_cadenas.py)
 * [Taller para el desarrollo individual](clase04/taller.md)
-* Tarea: Leer material de Algoritmos páginas 46 a 73
+* **Tarea**: Leer material de Algoritmos páginas 46 a 73
 
 ## Unidad 2 - Condicionales y Diccionarios
 ### Clase 5
@@ -44,8 +44,8 @@
   * [Proposiciones simples y complejas](clase05/proposiciones.md)
   * [Conocer el uso de Booleanos y sus operadores](clase05/operaciones_logicas.md)
   * [Realizar expresiones relacionales lógicas](clase05/expresiones_logicas.md)
-* Tarea: Leer material de Tipificación de Condicionales
-* Tarea: Leer material de Algoritmos páginas 74 a 143 (se revisará dentro de dos (2) clases)
+* **Tarea**: Leer material de Tipificación de Condicionales
+* **Tarea**: Leer material de Algoritmos páginas 74 a 143 (se revisará dentro de dos (2) clases)
 
 ### Clase 6
 * Revisión lectura Tipificación de Condicionales
@@ -54,14 +54,14 @@
   * [Diccionarios](clase06/diccionarios.py)
   * Pasando información a través de diccionarios (iMaster)
 * [Ejercicios para resolver en clase](clase06/ejercicios.md)
-* Tarea: Leer material de Algoritmos páginas 74 a 143
+* **Tarea**: Leer material de Algoritmos páginas 74 a 143
 
 ### Clase 7
 * Revisión lectura Algorítmos páginas 74 a 143 (Diagramas de Flujo y Pseudocodigo)
 * Conceptos del lenguaje Python
   * [Cadenas de caracteres](clase07/strings.py)
 * [Taller para el desarrollo individual](clase07/taller.md)
-* Tarea: Leer material de Algoritmos páginas 144 a 172
+* **Tarea**: Leer material de Algoritmos páginas 144 a 172
 
 ## Unidad 3 - Estructuras de datos y ciclos
 ### Clase 8
@@ -105,7 +105,11 @@
 ## Unidad 5 - Visualización y manipulación de archivos
 ### Clase 14
 * Conceptos del lenguaje Python
-  * [Análisis de datos básico - MatPlotLib](https://colab.research.google.com/drive/1c5io5mYamMIZSKWHtlMui4U2X7sEhUVp?usp=sharing)
+  * [Graficos con matplotlib](clase14/01-graficas_matplotlib.ipynb)
+  * [Graficas con Panda DataFrames](clase14/02-graficas_dataframes.ipynb)
+  * [Manejo de fechas](clase14/03-manejo_fechas.ipynb)
+  * [Manipulaciones de DataFrames](clase14/04-otros.ipynb)
+* **Tarea**: Leer material **Manejo de Archivos** (iMaster)
 
 [//]: # (### Clase 15)
 
