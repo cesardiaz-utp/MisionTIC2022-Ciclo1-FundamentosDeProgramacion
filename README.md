@@ -84,7 +84,7 @@
   * [Acceso a datos](clase10/datos.py)
 * [Taller para el desarrollo individual](clase09/ejercicios.md)
 
-## Unidad 4 - Estructuras de datos y ciclos
+## Unidad 4 - Manipulación de colecciones y Librerias
 ### Clase 11
 * Conceptos del lenguaje Python
   * [Programación Funcional](clase11/funciones.py)
@@ -101,3 +101,23 @@
   * [Numpy](clase13/numpy_workshop.py)
   * [Pandas](clase13/pandas_workshop.py)
 * [Ejercicios para resolver en clase](clase13/ejercicios.md)
+
+## Unidad 5 - Visualización y manipulación de archivos
+### Clase 14
+* Conceptos del lenguaje Python
+  * [Análisis de datos básico - MatPlotLib](https://colab.research.google.com/drive/1c5io5mYamMIZSKWHtlMui4U2X7sEhUVp?usp=sharing)
+
+[//]: # (### Clase 15)
+
+[//]: # (### Clase 16)
+
+[//]: # (## Unidad 6 - Programación orientada a objetos en Python e interfaces gráficas)
+[//]: # (### Clase 17)
+
+[//]: # (### Clase 18)
+
+[//]: # (### Clase 19)
+
+[//]: # (### Clase 20)
+
+[//]: # (### Clase 21)
