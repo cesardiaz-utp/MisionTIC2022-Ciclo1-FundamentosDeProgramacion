@@ -111,13 +111,21 @@
   * [Otras manipulaciones de DataFrames](clase14/04-otros.ipynb)
 * **Tarea**: Leer material **Manejo de Archivos**
 
-[//]: # (### Clase 15)
-[//]: # (* Conceptos del lenguaje Python)
-[//]: # (  * Manejo de archivos)
-[//]: # (  * Aplicación CRUD completa)
+### Clase 15
+* Conceptos del lenguaje Python
+  * Manejo de archivos
+    * [Texto](clase15/archivos/archivo_texto.py)
+    * [JSON](clase15/archivos/archivo_json.py)
+    * [Pandas](clase15/archivos/archivos_pandas.py)
+  * Aplicación CRUD completa
+    * [Modelo](clase15/crud/modelo.py)
+    * [Vista](clase15/crud/vista.py)
+    * [Controlador](clase15/crud/controlador.py)
+    * [Archivo principal](clase15/crud/main.py) (Buena práctica de desarrollo)
+* [Taller para el desarrollo individual](clase15/taller.md)
 
-[//]: # (### Clase 16)
-[//]: # (* [Ejercicios para resolver en clase]clase15/ejercicios.md)
+### Clase 16
+* [Ejercicios para resolver en clase]clase15/ejercicios.md
 
 [//]: # (## Unidad 6 - Programación orientada a objetos en Python e interfaces gráficas)
 [//]: # (### Clase 17)
