@@ -3,26 +3,29 @@ import vista as vst
 
 def menu_principal():
     mdl.load_file()
+    try: 
+        mainloop = True
+        while mainloop: 
+            opcion = vst.opcion_menu_principal()
 
-    mainloop = True
-    while mainloop: 
-        opcion = vst.opcion_menu_principal()
-
-        if opcion == 1:
-            listar_tareas()
-        elif opcion == 2:
-            consultar_tarea()
-        elif opcion == 3:
-            adicionar_tarea()
-        elif opcion == 4:
-            actualizar_tarea()
-        elif opcion == 5:
-            eliminar_tarea()
-        elif opcion == 0:
-            mainloop = False
-            vst.mostrar_mensaje("Ha salido exitosamente.")
-        else:
-            vst.mostrar_mensaje("Valor inválido!")
+            if opcion == 1:
+                listar_tareas()
+            elif opcion == 2:
+                consultar_tarea()
+            elif opcion == 3:
+                adicionar_tarea()
+            elif opcion == 4:
+                actualizar_tarea()
+            elif opcion == 5:
+                eliminar_tarea()
+            elif opcion == 0:
+                mainloop = False
+                vst.mostrar_mensaje("Ha salido exitosamente.")
+            else:
+                vst.mostrar_mensaje("Valor inválido!")
+    except Exception as e:
+        vst.mostrar_error(e)
+        
     mdl.write_file()
 
 def listar_tareas():

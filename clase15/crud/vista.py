@@ -4,6 +4,7 @@ def mostrar_mensaje(mensaje=''):
     print()
 
 def mostrar_error(mensaje=''):
+    print()
     print("Ha ocurrido un problema:", mensaje)
     print()
 

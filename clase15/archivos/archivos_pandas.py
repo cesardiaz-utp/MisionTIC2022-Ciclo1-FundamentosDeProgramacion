@@ -11,11 +11,16 @@ def guardar_csv():
     print(df)
     
     # Guardar en csv
-    df.to_csv("personas.csv", sep=";")
+    df.to_csv("personas.csv", sep=";", index_label="Index")
+    
+    # Guardar en csv
+    #df.to_excel("personas.xlsx", index_label="Index")
+
+#guardar_csv()
 
 def leer_csv():
-    df = pd.read_csv("personas.csv", sep=";")
-    del df["index"]
+    df = pd.read_csv("personas.csv", sep=";", index_col="Index")
+    #df = pd.read_excel("personas.xlsx", index_col="Index")
     print(df)
 
     print(df.describe())
@@ -23,3 +28,4 @@ def leer_csv():
     df.plot.bar(x="Nombre", y="Edad")
     plt.show()
 
+#leer_csv()

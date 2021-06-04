@@ -125,7 +125,9 @@
 * [Taller para el desarrollo individual](clase15/taller.md)
 
 ### Clase 16
-* [Ejercicios para resolver en clase]clase15/ejercicios.md
+* Conceptos del lenguaje Python
+  * [Archivo para analisis COVID-19](clase16/Casos_positivos_de_COVID-19_en_ColombiaDiezMil.csv)
+  * [Cuaderno de analisis en Google Colab](https://colab.research.google.com/drive/17mWF2g03BnqY3FoVBgH2zs6c-bhWptji?usp=sharing)
 
 [//]: # (## Unidad 6 - Programación orientada a objetos en Python e interfaces gráficas)
 [//]: # (### Clase 17)

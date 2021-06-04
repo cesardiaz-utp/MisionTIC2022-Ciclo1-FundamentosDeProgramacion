@@ -55,6 +55,7 @@ def update(id: int, tarea_actualizada: dict) -> dict :
             tarea[id_campo] = campo
 
     __tareas.append(tarea)
+    __tareas.sort(key=(lambda x: x["id"]))
     return tarea
 
 def delete(id: int) -> dict:
@@ -125,7 +126,8 @@ def load_file(ruta_archivo: str = "tareas.json"):
         with open(ruta_archivo) as archivo:
             __tareas = json.load(archivo)
     except:
-        raise Exception("No se pudo cargar la información de la capa de datos")
+        with open(ruta_archivo, "w") as archivo:
+            json.dump([], archivo)
 
 def write_file(ruta_archivo: str = "tareas.json"):
     """ Guarda las tareas gestionadas en un archivo
