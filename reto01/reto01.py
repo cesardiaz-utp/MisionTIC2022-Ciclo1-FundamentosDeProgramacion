@@ -1,5 +1,5 @@
 def CDT(usuario: str, capital: int, tiempo: int):
-    if (tiempo > 2):
+    if tiempo > 2:
         interes = 0.03
         valorInteres = (capital * interes * tiempo) / 12
         valorTotal = capital + valorInteres
