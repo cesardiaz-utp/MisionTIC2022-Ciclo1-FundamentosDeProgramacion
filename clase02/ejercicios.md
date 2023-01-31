@@ -7,8 +7,16 @@ El orden de los operadores aritméticos es muy importante ya que dependiendo del
 
 En este reto deberás programar la operación matemática "6 / 2 ( 1 + 2 )" utilizando las instrucciones necesarias.
 * ¿Cuál es el resultado correcto de la operación? ¿1 ó 9?
-* Explique por que la otra calculadora genera un resultado diferente.
+Respuesta = 9
 
+
+* Explique por que la otra calculadora genera un resultado diferente.
+cal 1 = 9
+cal 2 = 1
+
+Respuesta = 
+    Cal 1 ==> 6 / 2 * ( 1 + 2 ) # la ejecuta de izquierda a derecha
+    Cal 2 ==> 6 / 2 * ( 1 + 2 ) # la ejecuta de derecha izquierda 
 
 ### Análisis del problema
 
